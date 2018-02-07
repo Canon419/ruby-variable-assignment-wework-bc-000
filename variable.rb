@@ -1,2 +1,1 @@
-puts = "greeting"
-greeting = "Hello World"
+greeting = puts "Hello World"
